@@ -20,7 +20,7 @@ csv_files.update({
 })
 
 # Create and Connect to SQLite database
-conn = sqlite3.connect("global_electronics.db")
+conn = sqlite3.connect("sql/global_electronics.db")
 
 # Load each CSV into a table
 for table_name, file_path in csv_files.items():

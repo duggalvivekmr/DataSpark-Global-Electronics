@@ -48,18 +48,7 @@ This project showcases end-to-end exploratory data analysis (EDA) on transaction
 - **🌍 Pricing**: Apply exchange-aware dynamic pricing  
 - **🏬 Store Strategy**: Focus expansion in regions, not square footage  
 
-For details, see the [📄 strategy report](./Global_Electronics_Strategy_Report.md)
-
 ---
-
-## 🚀 Next Steps
-
-- 📈 Build predictive models (regression, forecasting)
-- 🧭 Perform customer segmentation (clustering)
-- 📊 Develop Power BI or Tableau dashboards
-
----
-
 ## 👨‍💻 Author
 
 **Vivek Kumar Duggal**  

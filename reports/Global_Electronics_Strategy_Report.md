@@ -1,6 +1,6 @@
-from docx import Document
+# from docx import Document
 
-# Create a Word document for strategy recommendations
+## Create a Word document for strategy recommendations
 
 doc = Document()
 doc.add_heading('📌 Strategic Recommendations for Global Electronics', 0)
@@ -53,7 +53,7 @@ for section, content in sections.items():
         else:
             doc.add_paragraph(line, style='List Bullet 2')
 
-# Add Summary Table
+## Add Summary Table
 
 doc.add_heading('✅ Summary Focus Areas', level=1)
 table = doc.add_table(rows=1, cols=2)
@@ -74,7 +74,7 @@ for area, action in rows:
     row_cells[0].text = area
     row_cells[1].text = action
 
-# Save Word document
+## Save Word document
 
 docx_path = "/mnt/data/Global_Electronics_Strategy_Report.docx"
 doc.save(docx_path)

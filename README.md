@@ -48,7 +48,7 @@ This project showcases end-to-end exploratory data analysis (EDA) on transaction
 - **🌍 Pricing**: Apply exchange-aware dynamic pricing  
 - **🏬 Store Strategy**: Focus expansion in regions, not square footage  
 
-[![Play the video](https://img.youtube.com/vi/v=Pzwy0Ujf1po/0.jpg)](https://www.youtube.com/watch?v=v=Pzwy0Ujf1po)
+[![Watch the feature demo](https://img.youtube.com/vi/Pzwy0Ujf1po/0.jpg)](https://www.youtube.com/watch?v=Pzwy0Ujf1po)
 
 ---
 ## 👨‍💻 Author
